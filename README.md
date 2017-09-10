@@ -20,5 +20,4 @@ One of the main difficulties while doing this project was that very little of th
 - Numberpad: Select initial video option from main menu
 
 ## Installing
-Code works using Processing v3.3.6. Needs the processing.video library installed
-Then, just load the code, and hit play.
+This code is compatible with at least Processing v3.3.6. The processing.video library is required to run this. Once processing is installed an setup, just open the file and hit play.
