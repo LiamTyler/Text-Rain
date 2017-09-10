@@ -11,6 +11,9 @@ This was the first assignment in my Graphics and Games class in spring 2016. The
 - Simulated gravity. If the text is on a sloped surface, it will slide down it slowly
 - Option to load different webcam options or a test video in the beginning menu
 
+## Difficulties
+One of the main difficulties while doing this project was that very little of the start code worked on my computer specifically for some reason. As a result I had to display everything a little differently, and double buffer. Other than that, one of the main flaws is that the image brightness obtained by the webcam is very noisy. I did nothing to help smooth any of this out, so it is expected, but it makes a lot of text slip through some spots, or get stuck on a seemingly bright, white wall.
+
 ## Controls
 - Spacebar: Debug mode
 - Up / Down arrows: Increase / decrease the threshold
